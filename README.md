@@ -4,6 +4,8 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/julien-allegre-7933bb139/)
 
-- 📷 [Instagram](https://www.instagram.com/julien.miam.miam/) 
+- 📷 [Instagram](https://www.instagram.com/julien.miam.miam/)
+
+- 📘 [My Dev Wiki](https://github.com/JAllegre/JAllegre/wiki)
 
 
